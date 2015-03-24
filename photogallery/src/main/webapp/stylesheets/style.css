@@ -1,0 +1,21 @@
+#uploadImage{
+  float: left;
+  width: 250px;
+}
+#uploadImage span{
+	float:left;
+	width:100%;
+}
+#uploadImage input{  
+  margin: 2px;
+    width: 175px;
+}
+#imageGallery{
+  float: left;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#imageGallery img{
+	margin: 0 5px
+}
